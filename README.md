@@ -1,2 +1,6 @@
-# Computer-Vision-and-Image-Processing-
-This chapter covers the Amazon Rekognition service for analyzing the content of the images using various techniques. You will learn how to analyze faces and recognize celebrities in images. You will also be able to compare faces in different images to see how closely they match with each other.
+# Computer Vision and Image Processing
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Computer-Vision-and-Image-Processing.svg)](https://github.com/Develop-Packt/Computer-Vision-and-Image-Processing/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Computer-Vision-and-Image-Processing.svg)](https://github.com/Develop-Packt/Computer-Vision-and-Image-Processing/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Computer-Vision-and-Image-Processing.svg)](https://github.com/Develop-Packt/Computer-Vision-and-Image-Processing/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Computer-Vision-and-Image-Processing/pulls)
+
